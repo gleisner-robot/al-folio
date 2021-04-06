@@ -8,8 +8,8 @@ last_name: Puhacheuskaya
 email: puhacheu@ualberta.ca
 
 icon: 🔥 # the emoji used as the favicon
-url: 
-baseurl: 
+url:
+baseurl:
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -36,27 +36,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
+github_username: gleisner-robot
+gitlab_username: gleisner
+twitter_username: gleisner_robot
+linkedin_username: veranika-puhacheuskaya
+scholar_userid: 689AsaMAAAAJ
+orcid_id: 0000-0002-6347-5877
+research_gate_profile: https://www.researchgate.net/profile/Veranika-Puhacheuskaya
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
-
+  You can always reach me at puhacheu@alberta.ca
+  
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
